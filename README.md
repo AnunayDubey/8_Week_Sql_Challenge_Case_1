@@ -18,6 +18,7 @@ He plans on using these insights to help him decide whether he should expand the
 Three Tables used in this case study:
 
 Sales: The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
+
 ![Screenshot 2024-03-29 113619](https://github.com/AnunayDubey/8_Week_Sql_Challenge_Case_1/assets/140899990/3d52893b-5ccb-4d8d-9b78-f4f7ba3f5cd9)
 
 Menu: The menu table maps the product_id to the actual product_name and price of each menu item.

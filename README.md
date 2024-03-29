@@ -15,11 +15,16 @@ Danny wants to use the data to answer a few simple questions about his customers
 He plans on using these insights to help him decide whether he should expand the existing customer loyalty program.
 
 # Tables used
-Three Tbales used in this case study:
+Three Tables used in this case study:
 
 Sales: The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
+![Screenshot 2024-03-29 113619](https://github.com/AnunayDubey/8_Week_Sql_Challenge_Case_1/assets/140899990/3d52893b-5ccb-4d8d-9b78-f4f7ba3f5cd9)
+
 Menu: The menu table maps the product_id to the actual product_name and price of each menu item.
+![Screenshot 2024-03-29 113624](https://github.com/AnunayDubey/8_Week_Sql_Challenge_Case_1/assets/140899990/dd33cf06-7d6f-4c6a-8dc9-17487bf4a64f)
+
 Members: The members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
+![Screenshot 2024-03-29 113628](https://github.com/AnunayDubey/8_Week_Sql_Challenge_Case_1/assets/140899990/316ea0dd-b18f-4813-ab0f-589cc267fc1f)
 
 # ER Diagram
 

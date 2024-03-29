@@ -23,6 +23,9 @@ Members: The members table captures the join_date when a customer_id joined the 
 
 # ER Diagram
 
+![Screenshot 2024-03-29 113139](https://github.com/AnunayDubey/8_Week_Sql_Challenge_Case_1/assets/140899990/ac40cdf5-20aa-4151-a990-a50e7f15f958)
+
+
 
 # Questions
 What is the total amount each customer spent at the restaurant?
